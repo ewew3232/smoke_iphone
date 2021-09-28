@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/bl.png"  ]
+[preload  storage="./data/bgimage/ash.png"  ]
+[preload  storage="./data/bgimage/nikki.png"  ]
+[preload  storage="./data/bgimage/kaatenyoru.png"  ]
+[preload  storage="./data/bgimage/gure-.png"  ]
+[preload  storage="./data/bgimage/kittin.jpg"  ]
+[preload  storage="./data/bgimage/akiraroom.png"  ]
+[return]

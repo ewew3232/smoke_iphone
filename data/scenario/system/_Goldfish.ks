@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/階段.jpg"  ]
+[preload  storage="./data/bgimage/エレベーター.jpg"  ]
+[preload  storage="./data/bgimage/gure-.png"  ]
+[preload  storage="./data/bgimage/カウンター.jpg"  ]
+[preload  storage="./data/bgimage/菜園.jpg"  ]
+[return]

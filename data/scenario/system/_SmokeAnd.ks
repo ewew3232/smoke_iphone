@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/gure-.png"  ]
+[preload  storage="./data/bgimage/ash.png"  ]
+[preload  storage="./data/bgimage/osiire1.jpg"  ]
+[preload  storage="./data/bgimage/小屋.jpg"  ]
+[preload  storage="./data/bgimage/菜園.jpg"  ]
+[preload  storage="./data/bgimage/bl.png"  ]
+[preload  storage="./data/bgimage/カウンター.jpg"  ]
+[return]
